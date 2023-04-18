@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="79px" viewBox="0 0 71 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>66</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="53" height="53"></rect>
+        <filter x="-36.8%" y="-27.4%" width="192.5%" height="192.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199530118 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="猩派客官网解决方案" transform="translate(-1442.000000, -2660.000000)">
+            <g id="Group-44" transform="translate(1442.000000, 2660.000000)">
+                <g id="Group-45" transform="translate(0.000000, 3.000000)">
+                    <g id="Rectangle-3-Copy-63">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FF983E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M26.75,15.8 C30.25,15.8 32.225,17.425 32.675,20.675 L29.825,20.675 C29.475,19.025 28.425,18.2 26.725,18.2 C25.525,18.2 24.575,18.775 23.875,19.95 C23.175,21.05 22.85,22.425 22.85,24.075 L22.85,24.3 L22.975,24.3 C23.475,23.55 24.1,23.025 24.85,22.675 C25.55,22.325 26.35,22.175 27.25,22.175 C29,22.175 30.4,22.725 31.45,23.85 C32.5,24.975 33.025,26.425 33.025,28.175 C33.025,29.975 32.4,31.45 31.2,32.6 C30,33.75 28.5,34.35 26.725,34.35 C24.525,34.35 22.85,33.55 21.7,31.975 C20.55,30.425 20,28.3 20,25.575 C20,22.65 20.6,20.3 21.825,18.5 C23.025,16.7 24.675,15.8 26.75,15.8 Z M26.625,24.55 C25.525,24.55 24.675,24.875 24.075,25.55 C23.45,26.2 23.15,27.125 23.15,28.275 C23.15,29.4 23.475,30.3 24.125,30.95 C24.775,31.6 25.6,31.925 26.625,31.925 C27.675,31.925 28.5,31.575 29.15,30.875 C29.8,30.175 30.125,29.275 30.125,28.175 C30.125,27.075 29.8,26.2 29.2,25.55 C28.55,24.875 27.7,24.55 26.625,24.55 Z" id="6" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

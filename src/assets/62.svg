@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="79" viewBox="0 0 71 79">
+  <defs>
+    <rect id="62-b" width="53" height="53"/>
+    <filter id="62-a" width="192.5%" height="192.5%" x="-36.8%" y="-27.4%" filterUnits="objectBoundingBox">
+      <feOffset dx="5" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199530118 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 3)">
+    <use fill="#000" filter="url(#62-a)" xlink:href="#62-b"/>
+    <use fill="#FF983E" xlink:href="#62-b"/>
+    <path fill="#FFF" d="M26.775,15.8 C28.5,15.8 29.925,16.3 31.05,17.3 C32.15,18.3 32.7,19.575 32.7,21.175 C32.7,22.725 32.1,24.125 30.95,25.4 C30.25,26.15 29,27.1 27.25,28.275 C25.425,29.475 24.325,30.525 23.925,31.425 L32.725,31.425 L32.725,34 L20.275,34 C20.275,32.175 20.85,30.6 22.05,29.25 C22.7,28.5 24.075,27.4 26.15,25.975 C27.3,25.175 28.1,24.5 28.6,23.975 C29.375,23.1 29.775,22.15 29.775,21.15 C29.775,20.175 29.5,19.45 29,18.975 C28.475,18.5 27.7,18.275 26.675,18.275 C25.575,18.275 24.75,18.65 24.2,19.4 C23.65,20.1 23.35,21.175 23.3,22.575 L20.375,22.575 C20.4,20.575 20.975,18.975 22.125,17.75 C23.3,16.45 24.85,15.8 26.775,15.8 Z"/>
+  </g>
+</svg>
